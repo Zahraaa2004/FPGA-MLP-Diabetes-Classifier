@@ -45,7 +45,7 @@ The training process showed stable convergence, as illustrated below.
 
 ### Training Loss Curve
 
-![Training Loss](images/Screenshot 2026-02-25 180930.png)
+![Training Loss](images/training_loss.png)
 
 The decreasing loss confirms that the model successfully learned from the data and converged during training.
 
